@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+        <channel>
+        <atom:link href="http://crcpRadio.github.io/crcpRadioMondays.xml" rel="self" type="application/rss+xml" />
+            <title>CRCP Radio Mondays</title>
+            <description>CRCP Radio Mondays is an air-wave based studio space that runs every Monday through Radio Emily. All content is produced, borrowed, or facilitated by Critical and Cultural Studies students at Emily Carr University of Art + Design, Vancouver. Going from school open to school close, we invite individuals and collectives from the CRCP major to broadcast interviews, readings, music, sounds and experimentations as a way to exercise or work through one’s practice. Our studio space is your studio space. </description>
+            <link>https://www.facebook.com/CRCP-Radio-Mondays-1692046864383407/</link>
+            <language>en-ca</language>
+            <copyright>Creative Commons</copyright>
+            <lastBuildDate>Sun, 7 Feb 2016 11:57:00 -0500</lastBuildDate>
+            <pubDate>Wed, 19 Aug 2015 11:30:00 -0500</pubDate>
+            <webMaster>elizibin@gmail.com</webMaster>
+            <itunes:author>Produced by Taryn Goodwin, Lili Watson and Emma Metcalfe Hurst</itunes:author>
+            <itunes:subtitle>CRCP Radio Mondays is an air-wave based studio space that runs every Monday through Radio Emily. All content is produced, borrowed, or facilitated by Critical and Cultural Studies students at Emily Carr University of Art + Design, Vancouver. Going from school open to school close, we invite individuals and collectives from the CRCP major to broadcast interviews, readings, music, sounds and experimentations as a way to exercise or work through one’s practice. Our studio space is your studio space.</itunes:subtitle>
+            <itunes:summary>CRCP Radio Mondays is an air-wave based studio space that runs every Monday through Radio Emily. All content is produced, borrowed, or facilitated by Critical and Cultural Studies students at Emily Carr University of Art + Design, Vancouver. Going from school open to school close, we invite individuals and collectives from the CRCP major to broadcast interviews, readings, music, sounds and experimentations as a way to exercise or work through one’s practice. Our studio space is your studio space.</itunes:summary>
+            <itunes:owner>
+                <itunes:name>CRCP</itunes:name>
+                <itunes:email>crcpradiomondays@gmail.com</itunes:email>
+            </itunes:owner>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:image href="http://litlitlitlit.xyz/img/dulcelitbig.jpg" />
+            <itunes:category text="Arts">
+                <itunes:category text="Literature" />
+            </itunes:category>
+            <!-- Begin Items -->
+            <item>
+
+<!-- *******************************************************-->
+<!-- *******************************************************-->
+              <!-- LIT I PART I -->
+<!-- *******************************************************-->
+<!-- *******************************************************-->
+
+                <title>LIT LIT LIT LIT I - Part I: Zebulon Zang and Kara Hansen</title>
+                <link>http://litlitlitlit.xyz/podcasts/LIT1P1.mp3</link>
+                <guid>http://litlitlitlit.xyz/podcasts/LIT1P1.mp3</guid>
+                <description>LIT LIT LIT LIT Avenue 165 East Hastings St. Vancouver BC - Zebulon Zang, Kara Hansen, Alex Bovril, and Steffanie Ling. April 18th 2015 8:00pm. Asked to write a biography to accompany a reading, the writer can’t think of anything to write about himself. Does he give the names of cities, institutions, achievements? What achievements? He steps out for fresh air. During, a car (on which the painter’s ladders are piled) drives up. The writer asks the painter for help with the biography and the painter agrees, but they end up talking only about window cleaning. The painter wishes he could write: when you do condos you’re cleaning these windows that take, like, half a minute, and all day long briefly glimpsing hundreds of bedrooms, which is to say of hundreds of unconnected lives—or lives that just seemed unconnected but which in writing could take on connections—the painter gets to thinking. They finish enjoying the fresh air and part ways, the writer still not knowing what to say about himself. For now, Alex Bovril is a writer currently based in New York. Kara Hansen is an artist and writer living in Nanaimo and based in Vancouver. Currently she holds the position of Curatorial Intern at the Nanaimo Art Gallery. She and Jesse Birch are co-curating an exhibition entitled Spirit Gum at the Nanaimo Art Gallery come May. From time to time she bribes the karaoke guy with flowers for two songs instead of one. Steffanie Ling is a writer, curator and editor. She will have red wine and turtlenecks all year long. For LIT LIT LIT LIT she will be reading from work in process, tentatively titled “You’re a liar and a smoker” a book of twenty chapters for twenty cigarettes. Zebulon Zang is a filmmaker and writer from Maillardville, British Columbia. He is also the founder of the Maillardville Cultural Appreciation Society, an exhibition space dedicated to the promotion of culture in peripheral zones.</description>
+                <enclosure url="http://litlitlitlit.xyz/podcasts/LIT1P1.mp3" length="34192606" type="audio/mpeg" />
+                <category>Podcasts</category>
+                <pubDate>Thu, 5 Nov 2015 11:44:00 -0500</pubDate>
+                <itunes:author>LIT LIT LIT LIT</itunes:author>
+                <itunes:explicit>No</itunes:explicit>
+                <itunes:subtitle>LIT LIT LIT LIT I - Part 1: New readings written and given by Zebulon Zang, Kara Hansen. </itunes:subtitle>
+                <itunes:summary>LIT LIT LIT LIT I - Part 1: Zebulon Zang and Kara Hansen:
+LIT LIT LIT LIT I took place at Avenue  in Vancouver BC on April 18th, 2015. New readings were written and given by
+Zebulon Zang, Kara Hansen, Alex Bovril and Steffanie Ling.
+
+Kara Hansen’s reading “I’d Hurt A Fly, I Don’t Care If I Kill A Fly, I’d Kill A Fly“ and
+Steffanie Ling’s reading “Clean Indoor Air Act (Act 1 and 2 of 3)“ are available as limited edition chap books, published and distributed by the Somewhat Urgent Series Press. </itunes:summary>
+                <itunes:duration>00:49:32</itunes:duration>
+                <itunes:keywords>Literature, Arts, Experimental, Performativity, Writing, GetLit, Reading, LITLITLITLIT</itunes:keywords>
+            </item>
+        </channel>
+    </rss>
